@@ -1,6 +1,6 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fbfbe178_002D0fb0_002D42f9_002Dab9e_002D702910429f53/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CheckGetMessageValid" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=245267e4_002D9ca7_002D4b87_002Dbeba_002D771ba2f05c48/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CheckedValid" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
-    &lt;TestId&gt;MSTest::214F0DE8-6545-45C9-84E3-2CE14C93A87E::net8.0::Tyuiu.Valovma.Sprint0.Task2.V0.Test.DataServiceTest.CheckGetMessageValid&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::C599BE0B-68CF-462B-8726-0017E22C3D57::net8.0::Tyuiu.Valovma.Sprint0.Task3.V0.Test.DataServiceTest.CheckedValid&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
