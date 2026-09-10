@@ -1,0 +1,14 @@
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task0/Tyuiu.Valovma.Sprint0.Task0.V0/bin/Debug/net8.0/Tyuiu.Valovma.Sprint0.Task0.V0
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task0/Tyuiu.Valovma.Sprint0.Task0.V0/bin/Debug/net8.0/Tyuiu.Valovma.Sprint0.Task0.V0.deps.json
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task0/Tyuiu.Valovma.Sprint0.Task0.V0/bin/Debug/net8.0/Tyuiu.Valovma.Sprint0.Task0.V0.runtimeconfig.json
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task0/Tyuiu.Valovma.Sprint0.Task0.V0/bin/Debug/net8.0/Tyuiu.Valovma.Sprint0.Task0.V0.dll
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task0/Tyuiu.Valovma.Sprint0.Task0.V0/bin/Debug/net8.0/Tyuiu.Valovma.Sprint0.Task0.V0.pdb
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task0/Tyuiu.Valovma.Sprint0.Task0.V0/obj/Debug/net8.0/Tyuiu.Valovma.Sprint0.Task0.V0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task0/Tyuiu.Valovma.Sprint0.Task0.V0/obj/Debug/net8.0/Tyuiu.Valovma.Sprint0.Task0.V0.AssemblyInfoInputs.cache
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task0/Tyuiu.Valovma.Sprint0.Task0.V0/obj/Debug/net8.0/Tyuiu.Valovma.Sprint0.Task0.V0.AssemblyInfo.cs
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task0/Tyuiu.Valovma.Sprint0.Task0.V0/obj/Debug/net8.0/Tyuiu.Valovma.Sprint0.Task0.V0.csproj.CoreCompileInputs.cache
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task0/Tyuiu.Valovma.Sprint0.Task0.V0/obj/Debug/net8.0/Tyuiu.Valovma.Sprint0.Task0.V0.dll
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task0/Tyuiu.Valovma.Sprint0.Task0.V0/obj/Debug/net8.0/refint/Tyuiu.Valovma.Sprint0.Task0.V0.dll
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task0/Tyuiu.Valovma.Sprint0.Task0.V0/obj/Debug/net8.0/Tyuiu.Valovma.Sprint0.Task0.V0.pdb
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task0/Tyuiu.Valovma.Sprint0.Task0.V0/obj/Debug/net8.0/Tyuiu.Valovma.Sprint0.Task0.V0.genruntimeconfig.cache
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task0/Tyuiu.Valovma.Sprint0.Task0.V0/obj/Debug/net8.0/ref/Tyuiu.Valovma.Sprint0.Task0.V0.dll
