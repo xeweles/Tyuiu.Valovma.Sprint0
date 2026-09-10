@@ -1,0 +1,12 @@
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task2/Tyuiu.Valovma.Sprint0.Task2.V0.lib/bin/Debug/net8.0/Tyuiu.Valovma.Sprint0.Task2.V0.lib.deps.json
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task2/Tyuiu.Valovma.Sprint0.Task2.V0.lib/bin/Debug/net8.0/Tyuiu.Valovma.Sprint0.Task2.V0.lib.dll
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task2/Tyuiu.Valovma.Sprint0.Task2.V0.lib/bin/Debug/net8.0/Tyuiu.Valovma.Sprint0.Task2.V0.lib.pdb
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task2/Tyuiu.Valovma.Sprint0.Task2.V0.lib/obj/Debug/net8.0/Tyuiu.Valovma.Sprint0.Task2.V0.lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task2/Tyuiu.Valovma.Sprint0.Task2.V0.lib/obj/Debug/net8.0/Tyuiu.Valovma.Sprint0.Task2.V0.lib.AssemblyInfoInputs.cache
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task2/Tyuiu.Valovma.Sprint0.Task2.V0.lib/obj/Debug/net8.0/Tyuiu.Valovma.Sprint0.Task2.V0.lib.AssemblyInfo.cs
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task2/Tyuiu.Valovma.Sprint0.Task2.V0.lib/obj/Debug/net8.0/Tyuiu.Valovma.Sprint0.Task2.V0.lib.csproj.CoreCompileInputs.cache
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task2/Tyuiu.Valovma.Sprint0.Task2.V0.lib/obj/Debug/net8.0/Tyuiu.Valovma.Sprint0.Task2.V0.lib.sourcelink.json
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task2/Tyuiu.Valovma.Sprint0.Task2.V0.lib/obj/Debug/net8.0/Tyuiu.Valovma.Sprint0.Task2.V0.lib.dll
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task2/Tyuiu.Valovma.Sprint0.Task2.V0.lib/obj/Debug/net8.0/refint/Tyuiu.Valovma.Sprint0.Task2.V0.lib.dll
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task2/Tyuiu.Valovma.Sprint0.Task2.V0.lib/obj/Debug/net8.0/Tyuiu.Valovma.Sprint0.Task2.V0.lib.pdb
+/Users/xew/Documents/Tyuiu/repos/Tyuiu.Valovma.Sprint0/Task2/Tyuiu.Valovma.Sprint0.Task2.V0.lib/obj/Debug/net8.0/ref/Tyuiu.Valovma.Sprint0.Task2.V0.lib.dll
